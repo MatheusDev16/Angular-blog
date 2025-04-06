@@ -1,11 +1,11 @@
 <div class ="container_small-card">
     <div class ="container_small-card-content">
         <div class="small-card_photo">
-            <img src="https://cdn.autopapo.com.br/box/uploads/2022/08/22135052/nissan-skyline-gtr-r34-paul-walker-leilao-732x488.png">
+            <img src="{{photoCover}}">
         </div>
         
         <div class = "small-card_title">
-          <h1><a href="#">Saiu a nova versão do Angular</a></h1>  
+          <h1><a [routerLink]="['content',Id]">{{cardTitle}}</a></h1>  
         </div>
       
     </div>
