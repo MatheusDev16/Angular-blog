@@ -1,4 +1,5 @@
-Projeto feito no Bootcamp da AVANADE através da plataforma da DIO.
+<h1>Blog Angular</h1>
+Projeto prático de um blog de notícias para o Bootcamp DIO Avanade 2025 utilizando Angular, HTML e CSS.
 
 ![WhatsApp Image 2025-04-06 at 05 38 00](https://github.com/user-attachments/assets/a09dace8-337e-4ea3-ac1f-71814dfe50bd)
 ![WhatsApp Image 2025-04-06 at 05 39 11](https://github.com/user-attachments/assets/0b507072-15c4-435f-bbba-195485445730)
